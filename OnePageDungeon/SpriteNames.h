@@ -1,0 +1,13 @@
+#pragma once
+
+enum SpriteNames 
+{
+	STONE_BLOCK,
+	PLAYER,
+	STONE_BLOCK_TALL,
+	STONE_RAMP_LEFT,
+	STONE_RAMP_RIGHT,
+	STONE_RAMP_TOP,
+	STONE_RAMP_BOTTOM
+};
+

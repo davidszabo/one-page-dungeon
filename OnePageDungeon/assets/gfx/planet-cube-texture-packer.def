@@ -1,0 +1,606 @@
+planet-cube-texture-packer.png
+{
+	Blocks/Brown Block.png
+	0
+	0
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Blocks/Dirt Block.png
+	101
+	0
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Blocks/Door Tall Closed.png
+	202
+	0
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Blocks/Door Tall Open.png
+	303
+	0
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Blocks/Grass Block.png
+	404
+	0
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Blocks/Plain Block.png
+	0
+	171
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Blocks/Stone Block Tall.png
+	101
+	171
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Blocks/Stone Block.png
+	202
+	171
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Blocks/Wall Block Tall.png
+	303
+	171
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Blocks/Wall Block.png
+	404
+	171
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Blocks/Water Block.png
+	0
+	342
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Blocks/Window Tall.png
+	101
+	342
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Blocks/Wood Block.png
+	202
+	342
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Characters/Character Boy.png
+	303
+	342
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Characters/Character Cat Girl.png
+	404
+	342
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Characters/Character Horn Girl.png
+	0
+	513
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Characters/Character Pink Girl.png
+	101
+	513
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Characters/Character Princess Girl.png
+	202
+	513
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Characters/Enemy Bug.png
+	303
+	513
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Chest Closed.png
+	404
+	513
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Chest Lid.png
+	0
+	684
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Chest Open.png
+	101
+	684
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Gem Blue.png
+	202
+	684
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Gem Green.png
+	303
+	684
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Gem Orange.png
+	404
+	684
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Heart.png
+	0
+	855
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Key.png
+	101
+	855
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Rock.png
+	202
+	855
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Selector.png
+	303
+	855
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/SpeechBubble.png
+	404
+	855
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Star.png
+	0
+	1026
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Tree Short.png
+	101
+	1026
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Tree Tall.png
+	202
+	1026
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Items/Tree Ugly.png
+	303
+	1026
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Ramps/Ramp East.png
+	404
+	1026
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Ramps/Ramp North.png
+	0
+	1197
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Ramps/Ramp South.png
+	101
+	1197
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Ramps/Ramp West.png
+	202
+	1197
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Rooftops/Roof East.png
+	303
+	1197
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Rooftops/Roof North East.png
+	404
+	1197
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Rooftops/Roof North West.png
+	0
+	1368
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Rooftops/Roof North.png
+	101
+	1368
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Rooftops/Roof South East.png
+	202
+	1368
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Rooftops/Roof South West.png
+	303
+	1368
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Rooftops/Roof South.png
+	404
+	1368
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Rooftops/Roof West.png
+	0
+	1539
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Shadows/Shadow East.png
+	101
+	1539
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Shadows/Shadow North East.png
+	202
+	1539
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Shadows/Shadow North West.png
+	303
+	1539
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Shadows/Shadow North.png
+	404
+	1539
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Shadows/Shadow Side West.png
+	0
+	1710
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Shadows/Shadow South East.png
+	101
+	1710
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Shadows/Shadow South West.png
+	202
+	1710
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Shadows/Shadow South.png
+	303
+	1710
+	101
+	171
+	0
+	0
+	0
+	0
+}
+{
+	Shadows/Shadow West.png
+	404
+	1710
+	101
+	171
+	0
+	0
+	0
+	0
+}
